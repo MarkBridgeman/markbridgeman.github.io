@@ -13,4 +13,3 @@ This was before blogging or CMS systems, before Greymatter and Blogger and whate
 
 Now, this is a self-rolled Jekyll-based static blog using Netlify as a platform. No, I don't know what half of that means either.
 
-Welcome to LSFR.
