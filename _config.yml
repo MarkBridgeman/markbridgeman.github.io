@@ -1,58 +1,47 @@
-# The Site Configuration
+########################################################################################################################
+# Site Settings                                                                                                        #
+########################################################################################################################
 
-# Import the theme
-theme: jekyll-theme-chirpy
-
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
+url: "https://tseknet.com"
 baseurl: ''
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
+########################################################################################################################
+# General settings                                                                                                     #
+########################################################################################################################
+
 lang: en
+title: Losfer
+description: A small personal blog
+# A shorter description for the sidebar.
+tagline: Amateur guitarist, cat lover, gamer
 
-# Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale:
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+# A (square) logo for the sidebar.
+# It also used by the `jekyll-seo-tag` plugin.
+logo: /assets/img/logo.png
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
-
-title: losfer words                          # the main title
-
-tagline: A simple personal blog   # it will display as the sub-title
-
-description: >-                        # used by seo meta and the atom feed
-  Amateur guitarist, cat lover, gamer, music enjoyer
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://www.losfer.com'
-
-twitter:
-  username: rel_games            # change to your twitter username
-
-social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+# This should be the same author as first entry in `_data/authors.yml`.
+author:
+  # Used by `jekyll-feed`:
   name: Mark
-  email: mark@losfer.com             # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/rel_games      # change to your twitter homepage
-    #- https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+  email: mark@losfer.com
+  # # Used by `jekyll-seo-tag`:
+  twitter: rel_games
+  rss: true
 
-google_site_verification:               # fill in to your verification string
+share-links-active:
+  twitter: true
+  facebook: false
+  linkedin: false
 
-# ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
+# Add links to the sidebar.
+menu:
+  - title: About
+    url: /about/
 
-permalink: /blog/:title
+copyright: ''
+
+permalink: /:title
 
 ########################################################################################################################
 # Jekyll Customizations                                                                                                #
@@ -126,7 +115,7 @@ collections:
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
-tinyletter: TsekNet
+# tinyletter: 
 
 
 ########################################################################################################################
@@ -135,7 +124,7 @@ tinyletter: TsekNet
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons: [newsletter, about, related, random, comments]
+  post_addons: [about, related, random, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
   no_mark_external: true
@@ -252,3 +241,31 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
+########################################################################################################################
+# SEO                                                                                                                  #
+########################################################################################################################
+
+# Where you proof that you own this site (used by jekyll-seo-tag)
+google_site_verification: 
+# -- or --
+# webmaster_verifications:
+# google:  <verification-id>
+# bing: <verification-id>
+# alexa:<verification-id>
+# yandex:  <verification-id>
+
+# Used for twitter cards
+twitter:
+  username:  rel_games
+
+# Used for facebook open graph
+# facebook:
+# app_id:  <id>
+# publisher: <id>
+# admins:  <id>
+
+# Used on index and about sites
+social:
+  name: Mark
+links:
+- https://twitter.com/rel_games
