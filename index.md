@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 👋
+title: Losfer
 sitemap: true
 cover: true
 ---
