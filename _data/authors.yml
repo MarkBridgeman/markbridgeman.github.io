@@ -2,19 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: Dan Tsekhanskiy
-  linkedin: tseknet
-  twitter: tseknet
-  github: tseknet
-  email: dan@tseknet.com
+  name: Mark
+  twitter: rel_games
+  email: mark@losfer.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: >
-    SRE with an unhealthy addiction to automation. With over five years of
-    experience in IT, my primary areas of focus are PowerShell, Python,
-    automation, CI/CD, infrastructure as code, imaging/provisioning, and
-    configuration management.
+    Amateur guitarist, cat love, husband, gamer.
 
   # This photo will be used in the about section
   picture:
@@ -28,10 +23,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin: tseknet
-    twitter: tseknet
-    github: tseknet
-    email: dan@tseknet.com
+    twitter: rel_games
+    email: mark@losfer.com
 # Another author (optional)
 # author2:
 #   name: <firtname> <lastname>
