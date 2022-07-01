@@ -5,7 +5,11 @@ date:   2022-07-01 08:32:43 +0100
 categories: general
 ---
 
-Blogging hasn't been something I've found easy for almost 20 years. In the before-social-media times - even in the before-MySpace-times - way back in the 90s, I was an "online journal writer", and I would post personal updates to a journal, which went through various name changes and designs as I taught myself web design and online publishing. This was before blogging or CMS systems, before Greymatter and Blogger and whatever other things popped up.
+Blogging hasn't been something I've found easy for almost 20 years. 
+
+In the before-social-media times - even in the before-MySpace-times - way back in the 90s, I was an "online journal writer", and I would post personal updates to a journal, which went through various name changes and designs as I taught myself web design and online publishing. 
+
+This was before blogging or CMS systems, before Greymatter and Blogger and whatever other things popped up.
 
 Now, this is a self-rolled Jekyll-based static blog using Netlify as a platform. No, I don't know what half of that means either.
 
