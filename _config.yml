@@ -28,7 +28,7 @@ twitter_username: rel_games
 #github_username:  jekyll
 
 # Build settings
-theme: chirpy
+theme: minima
 plugins:
   - jekyll-feed
 
