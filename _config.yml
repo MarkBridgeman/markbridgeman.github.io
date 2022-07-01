@@ -43,7 +43,7 @@ menu:
 
 copyright: ''
 
-permalink: /:title
+permalink: /blog/:title
 
 ########################################################################################################################
 # Jekyll Customizations                                                                                                #
