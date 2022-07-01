@@ -5,14 +5,14 @@ sitemap: true
 cover: true
 ---
 
-Hi, I'm Dan. I'm a Windows SRE @ Google.
+Hi, I'm Mark.
 {:.lead}
 
-This website aims to document *interesting* tech problems I've
-solved, and share those solutions with the world in the hopes that it will make
-your life easier.
+This blog is an exercise in learning new tech, writing about life, and other misc.
 
-TsekNet is a play on words: my last name ([**Tsek**hanskiy](/about#last-name)) + Microsoft's Tech**Net**.
+`Losfer` is taken from the Iron Maiden instrumental "Losfer Words (Big 'Orra)" off their most-excellent 1984 LP *Powerslave*.
+
+I'm using the Chirpy Jekyll theme here, with some functionality taken from [Dan Tsekhanskiy's blog](https://tseknet.com/blog/) - apologies for the blatant theft.
 
 ## Latest Posts
 

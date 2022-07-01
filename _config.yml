@@ -35,7 +35,9 @@ share-links-active:
   linkedin: false
 
 # Add links to the sidebar.
-menu:
+menu:  
+  - title: Blog
+    url: /blog/
   - title: About
     url: /about/
 
