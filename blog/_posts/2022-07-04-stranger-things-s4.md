@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Stranger `Things S4"
+title:  "Stranger Things Season 4"
 date:   2022-07-04 07:35:37
 categories: tv and film
 ---
 
-Season 4, split into Volume 1 & Volume 2, are now complete.
+Season 4 of Netflix's flagship horror-teen-romp Stranger Things, split into Volume 1 & Volume 2, is now complete.
 
 Possibly Netflix's only juggernaut in their stable, compared to all their other output, it's a testament to the show's appeal that multiple years between seasons can continue to draw people in.
 
