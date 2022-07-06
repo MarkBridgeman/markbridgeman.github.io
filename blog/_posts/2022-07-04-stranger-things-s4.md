@@ -15,7 +15,7 @@ Let's look at the new characters first.
 
 ## Eddie Munson
 
-Eddie proved to, pretty much immediately, be a huge fan favourite. After an initial dorky introduction which paid homage to every 80s rebel-outcast-teen film, the character soon settled down into being a rather nice chap. 
+Eddie proved to be a huge fan favourite, pretty much immediately. After an initial dorky introduction which paid homage to every 80s rebel-outcast-teen film, the character soon settled down into being a rather nice chap. 
 
 He was used to being spurned by society, loves heavy metal and Dungeons & Dragons, and deals drugs: all winning characteristics I'm sure you'll agree.
 
